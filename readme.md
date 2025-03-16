@@ -8,7 +8,7 @@
 
 ## Why GraphQL?
 
-I started this project to dive deep into GraphQL after hearing so much about how it's changing API development. Coming from a REST background, I wanted to experience firsthand the benefits of GraphQL's more flexible approach to data fetching and see if it lives up to the hype (spoiler: it does!).
+I've been using GraphQL regularly at work, and I decided to create this learning project to improve my techniques. I want to enhance my GraphQL skills to better tackle the complex challenges we face in our company environment. Coming from a REST background, I appreciate how GraphQL's flexible approach to data fetching streamlines our development process while providing more precise control over what data is returned.
 
 ## 🚀 What I'm Learning
 
