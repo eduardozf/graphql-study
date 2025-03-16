@@ -1,15 +1,7 @@
 import { ApolloServer } from "@apollo/server";
 import { startStandaloneServer } from "@apollo/server/standalone";
 import { typeDefs } from "./schema";
-import * as db from "./_db";
-
-const resolvers = {
-  Query: {
-    games: () => db.games,
-    reviews: () => db.reviews,
-    authors: () => db.authors,
-  },
-};
+import { resolvers } from "./resolver";
 
 const server = new ApolloServer({
   typeDefs,
