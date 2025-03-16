@@ -23,7 +23,7 @@ I've been using GraphQL regularly at work, and I decided to create this learning
 
 - **GraphQL**: The core that I'm learning
 - **Apollo Server**: Makes setting up a GraphQL server much easier
-- **Node.js**: Because who doesn't love callback pyramids and package.json files the size of novels?
+- **Node.js**: Because who doesn't love all the node_modules folders?
 - **TypeScript**: I'm used to working with it, and it makes my life easier
 
 ## 📘 My Learning Path
